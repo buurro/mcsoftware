@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Landing`,
-    description: `Clean and modern landing page starter template for your next saas project launch.`,
-    siteUrl: `https://www.gatsby-landing-page-starter.com`,
+    title: `McSoftware`,
+    description: `Soluzioni software per la tua azienda`,
+    siteUrl: `https://mcsoftware.burro.dev`,
     author: `@btahir`,
   },
   plugins: [
