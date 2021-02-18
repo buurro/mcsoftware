@@ -1,32 +1,4 @@
-<h1>
-  Stuff for a course
-</h1>
-
-
-![landing-logo](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/landing.png)
-<h1>
-  Gatsby Landing Page Starter
-</h1>
-
-Live Demo: https://gatsby-landing-page-starter.netlify.app/
-
-Kick off your saas project with this landing page starter template. Built off the main Gatsby starter, it has all the basic Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
-
-* Responsive layout
-* SEO optimized
-* Sitemap plugin
-* Offline plugin / PWA out of the box
-* Fast
-  
-<h2>
-  Performance Audit
-</h2>
-<br />
-    
-![audit-screenshot](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/audit.png)
-
-
-All the beautiful illustrations are from https://undraw.co/ and https://pixabay.com/.
+# Stuff for a course
 
 ## 🚀 Quick start
 
