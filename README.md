@@ -1,3 +1,8 @@
+<h1>
+  Stuff for a course
+</h1>
+
+
 ![landing-logo](https://github.com/btahir/gatsby-landing-page-starter/blob/master/src/assets/landing.png)
 <h1>
   Gatsby Landing Page Starter
