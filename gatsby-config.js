@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-landing-page-starter`,
-        short_name: `landing`,
+        name: `McSoftware S.p.a`,
+        short_name: `McSoftware`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#675CE2`,
