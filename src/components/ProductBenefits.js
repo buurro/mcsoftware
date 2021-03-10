@@ -14,7 +14,7 @@ const ProductBenefits = props => {
         </div>
         <div className="product-benefit-2-image"></div>
         <div className="product-benefit-3-tagline">
-          Generazione ed esportazione di report e documenti modificabili in maniera collaborativa
+          Generazione ed esportazione di report personalizzabili
         </div>
         <div className="product-benefit-3-image"></div>
       </div>
