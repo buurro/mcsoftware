@@ -9,7 +9,7 @@ const ValueProp = props => {
         <div className="main-message">
           <h1>McSoftware S.p.a.</h1>
           <p className="main-subtitle">Applicazioni Web<br/>Gestionali<br/>Piattaforme di Analisi Dati</p>
-          <Button label="Richiedi un preventivo" />
+          <Button label="Richiedi un preventivo" href="mailto:info@mcsoftware.xx" />
         </div>
         <div className="main-photo"></div>
       </div>
