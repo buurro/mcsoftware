@@ -35,7 +35,7 @@ const Header = ({ siteTitle }) => {
           <ul className={navClasses}>
             <li className={navItemClasses}><a href="tel:+39123456789">+39 123 456789</a></li>
             <li className={navItemClasses}><a href="#">Prodotti</a></li>
-            <li className={`${navItemClasses} nav-item-bold`} ><a href="#">Contattaci</a></li>
+            <li className={`${navItemClasses} nav-item-bold`} ><a href="/contact">Contattaci</a></li>
           </ul>
           <div className={burgerClass} onClick={toggle}>
             <div className="burger-line-1"></div>
