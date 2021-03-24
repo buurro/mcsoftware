@@ -2,7 +2,7 @@ import React from "react";
 
 import Layout from "../components/Layout";
 import SEO from "../components/SEO";
-import Contacts from "../components/Contacts";
+import About from "../components/About";
 
 const ContactPage = () => (
   <Layout>
@@ -12,8 +12,8 @@ const ContactPage = () => (
         transform: 'translate(-50%, -50%)',
       }}
     >
-      <SEO title="Contattaci" />
-        <Contacts/>
+      <SEO title="About" />
+        <About/>
     </div>
 
   </Layout>
